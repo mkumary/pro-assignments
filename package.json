@@ -1,0 +1,22 @@
+{
+  "name": "pro-assignments",
+  "version": "1.0.0",
+  "description": "\"list of assignment for pro batch\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkumary/pro-assignments.git"
+  },
+  "author": "manoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkumary/pro-assignments/issues"
+  },
+  "homepage": "https://github.com/mkumary/pro-assignments#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
